@@ -1,5 +1,7 @@
 {
   "project": "hlx",
   "host": "www.aem.live",
-  "pushDownSelector": "header"
+  "pushDownSelector": "header",
+  "previewHost": "main--www-aem-live--adobe.aem.page",
+  "liveHost": "main--www-aem-live--adobe.aem.live"
 }
