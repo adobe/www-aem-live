@@ -3,5 +3,12 @@
   "host": "www.aem.live",
   "pushDownSelector": "header",
   "previewHost": "main--www-aem-live--adobe.aem.page",
-  "liveHost": "main--www-aem-live--adobe.aem.live"
+  "liveHost": "main--www-aem-live--adobe.aem.live",
+  "plugins": [
+    {
+      "id": "doc",
+      "title": "Documentation",
+      "url": "https://www.aem/live/docs/"
+    }
+  ]
 }
